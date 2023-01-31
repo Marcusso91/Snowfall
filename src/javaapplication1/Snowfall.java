@@ -26,7 +26,7 @@ public class Snowfall extends javax.swing.JFrame {
         this.width = this.getWidth();
         this.height = this.getHeight();
         this.setVisible(true);
-        Image img = Toolkit.getDefaultToolkit().getImage("christmas.jpg");
+        Image img = Toolkit.getDefaultToolkit().getImage("pic/christmas.jpg");
         img.getScaledInstance(this.getWidth(), this.getHeight(), Image.SCALE_SMOOTH);
         ImageIcon image = new ImageIcon(img);
         this.setContentPane(new JLabel(image));
@@ -40,7 +40,7 @@ public class Snowfall extends javax.swing.JFrame {
         ContinuousAudioDataStream loop = null;
         // create an audiostream from the inputstream
         try {
-            File file = new File("jingle-bells.wav");
+            File file = new File("music/jingle-bells.wav");
             Clip clip = AudioSystem.getClip();
             AudioInputStream Audio = AudioSystem.getAudioInputStream(file);
             clip.open(Audio);
@@ -51,7 +51,7 @@ public class Snowfall extends javax.swing.JFrame {
             ex.printStackTrace();
         }
 
-        for (int i = 0; i < 30; i++) {
+        for (int i = 0; i < 50; i++) {
 
             this.addBall();
         }
