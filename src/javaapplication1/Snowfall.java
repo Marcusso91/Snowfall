@@ -9,9 +9,6 @@ import javax.sound.sampled.Clip;
 import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.UnsupportedAudioFileException;
 import javax.swing.*;
-import sun.audio.*;
-
-
 
 public class Snowfall extends javax.swing.JFrame {
 
@@ -34,11 +31,8 @@ public class Snowfall extends javax.swing.JFrame {
         this.setLocationRelativeTo(null);
 
         //Creating background music and running continuously
-        AudioStream backgroundMusic;
-        AudioData musicData;
-        AudioPlayer musicPlayer = AudioPlayer.player;
-        ContinuousAudioDataStream loop = null;
         // create an audiostream from the inputstream
+        
         try {
             File file = new File("music/jingle-bells.wav");
             Clip clip = AudioSystem.getClip();
@@ -51,6 +45,8 @@ public class Snowfall extends javax.swing.JFrame {
             ex.printStackTrace();
         }
 
+        
+        // Put ball objects in the vector
         for (int i = 0; i < 50; i++) {
 
             this.addBall();
