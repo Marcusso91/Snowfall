@@ -10,6 +10,7 @@ and put a picture in the background and a music plays in the background.
 ### Technologies used:
 - Java [JDK 8+]
 - Java Swing
+- Java Sound
 
 ### === Software And Tools Required ===
 - NetBeans IDE
