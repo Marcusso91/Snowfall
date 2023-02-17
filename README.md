@@ -24,3 +24,7 @@ And Java JDK here: https://www.oracle.com/java/technologies/downloads/#jdk19-win
 If you install both NetBeans IDE and Java JDK, after run NetBeans IDE and import this project
 
 ![Import_pic](https://user-images.githubusercontent.com/111382157/219703357-b0dc607f-909e-4e41-b44c-c6c28380f40c.png)
+
+If you imported the project clic on it twice and click run
+
+![run_program](https://user-images.githubusercontent.com/111382157/219709711-4d320323-ba5d-4f9a-a593-f45c1a377611.png)
