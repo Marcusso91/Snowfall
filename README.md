@@ -21,3 +21,4 @@ And Java JDK here: https://www.oracle.com/java/technologies/downloads/#jdk19-win
 
 If you install both NetBeans IDE and Java JDK run NetBeans IDE and import project Snowfall
 
+![Import_pic](https://user-images.githubusercontent.com/111382157/219703357-b0dc607f-909e-4e41-b44c-c6c28380f40c.png)
