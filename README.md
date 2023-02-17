@@ -16,15 +16,17 @@ and put a picture in the background and a music plays in the background.
 - NetBeans IDE
 
 If you want to run this program first download this project as zip and 
-you must install NetBeans IDE development environment and Java JDK
+you must install NetBeans IDE development environment and Java JDK.
 You can download NetBeans IDE here: https://netbeans-ide.informer.com/download/
 
 And Java JDK here: https://www.oracle.com/java/technologies/downloads/#jdk19-windows
 
-If you install both NetBeans IDE and Java JDK, after run NetBeans IDE and import this project
+You need install both NetBeans IDE and Java JDK, after run NetBeans IDE and import this project.
 
 ![Import_pic](https://user-images.githubusercontent.com/111382157/219703357-b0dc607f-909e-4e41-b44c-c6c28380f40c.png)
 
-If you imported the project clic on it twice and click run
+You need to click twice on the project in the Netbeans IDE run.
 
 ![run_program](https://user-images.githubusercontent.com/111382157/219709711-4d320323-ba5d-4f9a-a593-f45c1a377611.png)
+
+If you have question about this project send me an email: mark.oravecz@yahoo.com
