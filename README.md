@@ -27,7 +27,7 @@ And Java JDK here: https://www.oracle.com/java/technologies/downloads/#jdk19-win
 
 ![Import_pic](https://user-images.githubusercontent.com/111382157/219703357-b0dc607f-909e-4e41-b44c-c6c28380f40c.png)
 
-3. You need to click twice on the project in the Netbeans IDE run.
+3. You need to click twice on the project and click run button in NetBeans IDE.
 
 ![run_program](https://user-images.githubusercontent.com/111382157/219709711-4d320323-ba5d-4f9a-a593-f45c1a377611.png)
 
