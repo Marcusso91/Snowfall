@@ -21,6 +21,7 @@ and put a picture in the background and a music plays in the background.
 you must install NetBeans IDE development environment and Java JDK.
 
 You can download NetBeans IDE here: https://netbeans-ide.informer.com/download/
+
 And Java JDK here: https://www.oracle.com/java/technologies/downloads/#jdk19-windows
 
 2. You need install both NetBeans IDE and Java JDK, after run NetBeans IDE and click import project from zip.
